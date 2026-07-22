@@ -83,7 +83,6 @@ A console-based fitness management application developed in C++ using object-ori
 
 ## GitHub Stats
 
-> Top Languages, Streak, and Activity Graph need public repos and commit history to render. They'll fill in once you push at least one public repo.
 
 <div align="center">
 
