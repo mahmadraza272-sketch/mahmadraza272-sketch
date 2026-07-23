@@ -13,37 +13,23 @@
 
 <br/>
 
-## Who I Am
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&text=Who%20I%20Am&fontSize=30&fontColor=7C3AED&animation=fadeIn&fontAlignY=70" width="100%"/>
-
 <div align="center">
 
-**Title**
+<hr width="60%" color="#7B1E3A"/>
 
-<img src="https://img.shields.io/badge/Software%20Engineering%20Student-7C3AED?style=for-the-badge&logoColor=white" alt="Title 1"/>
-<img src="https://img.shields.io/badge/Aspiring%20Flutter%20Developer-7C3AED?style=for-the-badge&logoColor=white" alt="Title 2"/>
+<img src="https://img.shields.io/badge/C++-7C3AED?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-7C3AED?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-7C3AED?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Git-7C3AED?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-7C3AED?style=for-the-badge"/>
 
-**Stack**
+<img src="https://placehold.co/1200x3/A855F7/A855F7.png" width="60%">
 
-<img src="https://img.shields.io/badge/C++-7C3AED?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-7C3AED?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-7C3AED?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-7C3AED?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-7C3AED?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=500&lines=Open+to%3A+Internships;Open+to%3A+Junior+Flutter+Roles;Open+to%3A+Collaborations" alt="Open To"/>
 
-**Open To**
+<img src="https://placehold.co/1200x3/A855F7/A855F7.png" width="60%">
 
-<img src="https://img.shields.io/badge/Internships-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Junior%20Flutter%20Roles-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Collaborations-7C3AED?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Projects%20Built-3-7C3AED?style=for-the-badge"/>
-
-*Currently: Learning by building — data structures, OOP, and ML basics*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Learning+by+building...;Data+Structures+%26+OOP;Exploring+ML+basics" alt="Currently"/>
 
 </div>
+
+
 
 ## Featured Projects
 
