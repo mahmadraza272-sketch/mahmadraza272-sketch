@@ -15,15 +15,35 @@
 
 ## Who I Am
 
-| | |
-|---|---|
-| **Title** | Software Engineering Student \| Aspiring Flutter Developer |
-| **Stack** | C++, Dart, Flutter, Git, GitHub, SQL |
-| **Projects Built** | 3 |
-| **Currently** | Learning by building — data structures, OOP, and ML basics |
-| **Open To** | Internships, Junior Flutter roles, Collaborations |
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&text=Who%20I%20Am&fontSize=30&fontColor=7C3AED&animation=fadeIn&fontAlignY=70" width="100%"/>
 
-<br/>
+<div align="center">
+
+**Title**
+
+<img src="https://img.shields.io/badge/Software%20Engineering%20Student-7C3AED?style=for-the-badge&logoColor=white" alt="Title 1"/>
+<img src="https://img.shields.io/badge/Aspiring%20Flutter%20Developer-7C3AED?style=for-the-badge&logoColor=white" alt="Title 2"/>
+
+**Stack**
+
+<img src="https://img.shields.io/badge/C++-7C3AED?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-7C3AED?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-7C3AED?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-7C3AED?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-7C3AED?style=for-the-badge"/>
+
+**Open To**
+
+<img src="https://img.shields.io/badge/Internships-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Junior%20Flutter%20Roles-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Collaborations-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Projects%20Built-3-7C3AED?style=for-the-badge"/>
+
+*Currently: Learning by building — data structures, OOP, and ML basics*
+
+</div>
 
 ## Featured Projects
 
